@@ -7,7 +7,7 @@
 # INTERNS:
     1.Stephen Osafo 
     2.Mr. Kegyeda Aaron
-    3.
+    3.Daniel
     4.
     5.
     6.
