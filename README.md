@@ -5,7 +5,7 @@
     BRIGHT YANCHIRAH
 
 # INTERNS:
-    1.
+    1.Stephen Osafo 
     2.
     3.
     4.
